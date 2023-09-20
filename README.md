@@ -55,4 +55,4 @@ Kramer, Andrew, Kyle Harlow, Christopher Williams, and Christoffer Heckman. “C
   doi={10.1109/TPAMI.2023.3301553}}
 
 ```
-## License
+## Licence
