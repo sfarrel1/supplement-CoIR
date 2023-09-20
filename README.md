@@ -38,9 +38,9 @@ The experimental data used in this work is from the ColoRadar data set which can
 Kramer, Andrew, Kyle Harlow, Christopher Williams, and Christoffer Heckman. “ColoRadar: The direct 3D millimeter wave radar dataset.” The International Journal of Robotics Research 41, no. 4 (2022): 351-360.
 
 ## Code Release Plan
-* Sept. 18 - 22: publish Google Colab notebook that can be used to quickly implement our proposed method CoIR.
+* Publish Google Colab notebook that can be used to quickly implement our proposed method CoIR.
 
-* Sept. 25 - 29: publish scripts to post-process raw radar ADC measuremetns from the ColoRadar data set into radar datacubes that can be used with our method.
+* Publish scripts to post-process raw radar ADC measuremetns from the ColoRadar data set into radar datacubes that can be used with our method.
 
 ## Citation
 ```
