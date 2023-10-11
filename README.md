@@ -28,9 +28,9 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvi
 For details on different Pytorch installations see [[here]](https://pytorch.org/get-started/locally/)
 
 ## Processing Experimental Radar Data
-The ```sparse_radar_rec.py``` script implements our method CoIR and performs high resolution radar imaging from experimental radar data cube ADC measurements. We used the radar measurements from the ColoRadar data set. The script will generate reconstructions for our propsoed network ComDecoder and competing baselines. Reconstructed images are in polar coordinates and will be saved as .png files and torch matrcies for later viewing and processing.
+The ```sparse_radar_rec.py``` script implements our method CoIR and performs high resolution radar imaging from experimental radar data cube ADC measurements. We used the radar measurements from the ColoRadar data set. The script will generate reconstructions for our proposed network ComDecoder and competing baselines. Reconstructed images are in polar coordinates and will be saved as .png files and torch matrcies for later viewing and processing.
 
-To convert the recosntructed images from polar to cartesian coordinates run the ```gen_plots_singleScene_results.py``` script. See the ```example_recon_cartesian_run1_frame182``` folder for example reconstructions for all methods.
+To convert the reconstructed images from polar to cartesian coordinates run the ```gen_plots_singleScene_results.py``` script. See the ```example_recon_cartesian_run1_frame182``` folder for example reconstructions for all methods.
 
 ## Dataset
 The experimental data used in this work is from the ColoRadar data set which can be found [[here]](https://arpg.github.io/coloradar/)
