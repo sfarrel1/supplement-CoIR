@@ -4,7 +4,7 @@ This repository provides code for the paper **``CoIR: Compressive Implicit Radar
 
 The paper is available online [[here]](https://ieeexplore.ieee.org/document/10214469)
 
-CoIR is an analysis by synthesis method that leverages the implicit neural network bias in convolutional decoders and compressed sensing to perform high accuracy radar imaging. 
+CoIR is an analysis by synthesis method that leverages the implicit neural network bias in convolutional decoders and compressed sensing to perform high accuracy radar imaging.
 
 ![](/images/main_fig.png)
 
