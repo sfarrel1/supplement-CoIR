@@ -1,0 +1,7 @@
+matplotlib
+numpy
+torch
+scipy
+opencv-contrib-python
+tqdm
+torchmetrics
